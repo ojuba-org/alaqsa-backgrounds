@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>Alaqsa -- 1</name>
+        <name xml:lang="ar">الأقصى -- 1</name>
+        <filename>/usr/share/backgrounds/ALAQSA/ALAQSA_1.JPG</filename>
+        <options>stretched</options>
+    </wallpaper>
+
+
+
+    <wallpaper deleted="false">
+        <name>Alaqsa -- 2</name>
+        <name xml:lang="ar">الأقصى -- 2</name>
+        <filename>/usr/share/backgrounds/ALAQSA/ALAQSA_2.JPG</filename>
+        <options>stretched</options>
+    </wallpaper>
+
+
+
+    <wallpaper deleted="false">
+        <name>Alaqsa -- 3</name>
+        <name xml:lang="ar">الأقصى -- 3</name>
+        <filename>/usr/share/backgrounds/ALAQSA/ALAQSA_3.JPG</filename>
+        <options>stretched</options>
+    </wallpaper>
+
+
+
+    <wallpaper deleted="false">
+        <name>Alaqsa -- 4</name>
+        <name xml:lang="ar">الأقصى -- 4</name>
+        <filename>/usr/share/backgrounds/ALAQSA/ALAQSA_4.JPG</filename>
+        <options>stretched</options>
+    </wallpaper>
+</wallpapers>
