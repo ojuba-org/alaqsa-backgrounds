@@ -1,6 +1,6 @@
 Name: alaqsa-backgrounds
 Version: 1.0
-Release: 3%{?dist}
+Release: 4%{?dist}
 Summary: Alaqsa backgrounds
 Summary(ar): خلفيات للأقصى
 License: WAQFv2
@@ -35,6 +35,9 @@ install -Dp -m 0644 %{SOURCE100} %{buildroot}%{_datadir}/gnome-background-proper
 %{_datadir}/gnome-background-properties/alaqsa.xml
 
 %changelog
+
+* Wed Jan 26 2022 Mosaab Alzoubi <moceap@hotmail.com> - 1.0-4
+- Rebuilt for F35
 
 * Fri Sep 18 2020 Mosaab Alzoubi <moceap@hotmail.com> - 1.0-3
 - Rebuilt for F32
